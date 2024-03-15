@@ -115,6 +115,15 @@ dependencies {
 
     implementation("com.knuddels:jtokkit:1.0.0")
 
+    // langchain4j integrations
+    implementation("dev.langchain4j:langchain4j-open-ai:0.28.0")
+    implementation("dev.langchain4j:langchain4j-hugging-face:0.28.0")
+    implementation("dev.langchain4j:langchain4j-ollama:0.28.0")
+    implementation("dev.langchain4j:langchain4j-milvus:0.28.0")
+    implementation("dev.langchain4j:langchain4j-local-ai:0.28.0")
+
+
+
     // tests
     testImplementation("org.junit.jupiter:junit-jupiter-params:5.10.2")
     testImplementation("org.junit.jupiter:junit-jupiter:5.10.2")
