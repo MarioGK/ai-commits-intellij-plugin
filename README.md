@@ -3,7 +3,7 @@
         <img src="./src/main/resources/META-INF/pluginIcon.svg" width="200" height="200" alt="logo"/>
     </a>
 </div>
-<h1 align="center">AI Commits</h1>
+<h1 align="center">AI Commits</h1>test
 <p align="center">AI Commits for IntelliJ based IDEs/Android Studio.</p>
 
 <p align="center">
@@ -16,9 +16,15 @@
 
 - [Description](#description)
 - [Features](#features)
+- [Demo](#demo)
 - [Compatibility](#compatibility)
 - [Install](#install)
-- [Installation from zip](#installation-from-zip)
+  - [Installation from zip](#installation-from-zip)
+- [Support](#support)
+- [Change log](#change-log)
+- [Contributing](#contributing)
+- [Acknowledgements](#acknowledgements)
+- [License](#license)
 
 [//]: # (- [Demo]&#40;#demo&#41;)
 
