@@ -45,7 +45,7 @@ class AppSettings : PersistentStateComponent<AppSettings> {
     var currentPrompt = prompts["basic"]!!
 
     var openAIModelId = "gpt-3.5-turbo"
-    var openAIModelIds = listOf("gpt-3.5-turbo", "gpt-4")
+    var openAIModelIds = listOf("gpt-3.5-turbo", "gpt-4", "mixtral-8x7b-32768")
     var openAITemperature = "0.7"
 
     var appExclusions: Set<String> = setOf()
